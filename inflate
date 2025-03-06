@@ -1,0 +1,2 @@
+#!/bin/sh
+python3 ./decompress.py $1 $2
