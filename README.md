@@ -1,2 +1,2 @@
 # parallel-compression
-Huffman compression parallelized using Kubernetes pods.
+Code is a mess (rush job), lots of room for improvement, it works.
