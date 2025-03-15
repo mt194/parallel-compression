@@ -1,0 +1,3 @@
+- Clean up the compression & service code.
+- Write a proper README.md, how to setup, etc...
+- Take a fie path as argument to compress any file instead of a fixed path.
